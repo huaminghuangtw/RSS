@@ -121,6 +121,11 @@
         title="The Pudding"
         xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=UULPFuV9vMFVluW9CAOdS4Oluw"
       />
+      <outline
+        type="rss"
+        title="數感實驗室Numeracy Lab"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=UULP_vW48pRsAdM72Px8lr5w0Q"
+      />
     </outline>
   </body>
 </opml>
