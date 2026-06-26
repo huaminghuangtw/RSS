@@ -38,8 +38,8 @@
       />
       <outline
         type="rss"
-        title="r/Velo"
-        xmlUrl="https://www.reddit.com/r/Velo/top.rss?t=month"
+        title="r/flexibility"
+        xmlUrl="https://www.reddit.com/r/flexibility/top.rss?t=month"
       />
       <outline
         type="rss"
@@ -113,8 +113,8 @@
       />
       <outline
         type="rss"
-        title="r/flexibility"
-        xmlUrl="https://www.reddit.com/r/flexibility/top.rss?t=month"
+        title="r/PeterAttia"
+        xmlUrl="https://www.reddit.com/r/PeterAttia/top.rss?t=month"
       />
       <outline
         type="rss"
@@ -268,6 +268,11 @@
       />
       <outline
         type="rss"
+        title="r/Parenting"
+        xmlUrl="https://www.reddit.com/r/Parenting/top.rss?t=month"
+      />
+      <outline
+        type="rss"
         title="r/webdev"
         xmlUrl="https://www.reddit.com/r/webdev/top.rss?t=month"
       />
@@ -393,6 +398,16 @@
       />
       <outline
         type="rss"
+        title="r/fire"
+        xmlUrl="https://www.reddit.com/r/fire/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/leanfire"
+        xmlUrl="https://www.reddit.com/r/leanfire/top.rss?t=month"
+      />
+      <outline
+        type="rss"
         title="r/personalfinance"
         xmlUrl="https://www.reddit.com/r/personalfinance/top.rss?t=month"
       />
@@ -428,8 +443,8 @@
       />
       <outline
         type="rss"
-        title="r/enlightenment"
-        xmlUrl="https://www.reddit.com/r/enlightenment/top.rss?t=month"
+        title="r/unpopularopinion"
+        xmlUrl="https://www.reddit.com/r/unpopularopinion/top.rss?t=month"
       />
       <outline
         type="rss"
@@ -438,8 +453,8 @@
       />
       <outline
         type="rss"
-        title="r/Futurology"
-        xmlUrl="https://www.reddit.com/r/Futurology/top.rss?t=month"
+        title="r/Jung"
+        xmlUrl="https://www.reddit.com/r/Jung/top.rss?t=month"
       />
       <outline
         type="rss"
@@ -448,8 +463,8 @@
       />
       <outline
         type="rss"
-        title="r/SimulationTheory"
-        xmlUrl="https://www.reddit.com/r/SimulationTheory/top.rss?t=month"
+        title="r/psychology"
+        xmlUrl="https://www.reddit.com/r/psychology/top.rss?t=month"
       />
       <outline
         type="rss"
@@ -525,6 +540,11 @@
         type="rss"
         title="r/suggestmeabook"
         xmlUrl="https://www.reddit.com/r/suggestmeabook/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/Longreads"
+        xmlUrl="https://www.reddit.com/r/Longreads/top.rss?t=month"
       />
       <outline
         type="rss"
