@@ -108,11 +108,6 @@
       />
       <outline
         type="rss"
-        title="r/nutrition"
-        xmlUrl="https://www.reddit.com/r/nutrition/top.rss?t=month"
-      />
-      <outline
-        type="rss"
         title="r/PeterAttia"
         xmlUrl="https://www.reddit.com/r/PeterAttia/top.rss?t=month"
       />
@@ -125,16 +120,6 @@
         type="rss"
         title="r/Biohackers"
         xmlUrl="https://www.reddit.com/r/Biohackers/top.rss?t=month"
-      />
-      <outline
-        type="rss"
-        title="r/EatCheapAndHealthy"
-        xmlUrl="https://www.reddit.com/r/EatCheapAndHealthy/top.rss?t=month"
-      />
-      <outline
-        type="rss"
-        title="r/PlantBasedDiet"
-        xmlUrl="https://www.reddit.com/r/PlantBasedDiet/top.rss?t=month"
       />
       <outline
         type="rss"
@@ -270,6 +255,11 @@
         type="rss"
         title="r/Parenting"
         xmlUrl="https://www.reddit.com/r/Parenting/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/selfcare"
+        xmlUrl="https://www.reddit.com/r/selfcare/top.rss?t=month"
       />
       <outline
         type="rss"
@@ -465,6 +455,41 @@
         type="rss"
         title="r/psychology"
         xmlUrl="https://www.reddit.com/r/psychology/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/nutrition"
+        xmlUrl="https://www.reddit.com/r/nutrition/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/PlantBasedDiet"
+        xmlUrl="https://www.reddit.com/r/PlantBasedDiet/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/vegan"
+        xmlUrl="https://www.reddit.com/r/vegan/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/EatCheapAndHealthy"
+        xmlUrl="https://www.reddit.com/r/EatCheapAndHealthy/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/onepotmeals"
+        xmlUrl="https://www.reddit.com/r/onepotmeals/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/AskCulinary"
+        xmlUrl="https://www.reddit.com/r/AskCulinary/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/MealPrepSunday"
+        xmlUrl="https://www.reddit.com/r/MealPrepSunday/top.rss?t=month"
       />
       <outline
         type="rss"
