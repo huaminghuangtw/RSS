@@ -38,41 +38,6 @@
       />
       <outline
         type="rss"
-        title="r/flexibility"
-        xmlUrl="https://www.reddit.com/r/flexibility/top.rss?t=month"
-      />
-      <outline
-        type="rss"
-        title="r/naturalbodybuilding"
-        xmlUrl="https://www.reddit.com/r/naturalbodybuilding/top.rss?t=month"
-      />
-      <outline
-        type="rss"
-        title="r/bodyweightfitness"
-        xmlUrl="https://www.reddit.com/r/bodyweightfitness/top.rss?t=month"
-      />
-      <outline
-        type="rss"
-        title="r/AdvancedRunning"
-        xmlUrl="https://www.reddit.com/r/AdvancedRunning/top.rss?t=month"
-      />
-      <outline
-        type="rss"
-        title="r/fitness"
-        xmlUrl="https://www.reddit.com/r/fitness/top.rss?t=month"
-      />
-      <outline
-        type="rss"
-        title="r/StrongerByScience"
-        xmlUrl="https://www.reddit.com/r/StrongerByScience/top.rss?t=month"
-      />
-      <outline
-        type="rss"
-        title="r/triathlon"
-        xmlUrl="https://www.reddit.com/r/triathlon/top.rss?t=month"
-      />
-      <outline
-        type="rss"
         title="r/todayilearned"
         xmlUrl="https://www.reddit.com/r/todayilearned/top.rss?t=month"
       />
@@ -110,11 +75,6 @@
         type="rss"
         title="r/PeterAttia"
         xmlUrl="https://www.reddit.com/r/PeterAttia/top.rss?t=month"
-      />
-      <outline
-        type="rss"
-        title="r/HubermanLab"
-        xmlUrl="https://www.reddit.com/r/HubermanLab/top.rss?t=month"
       />
       <outline
         type="rss"
@@ -258,8 +218,8 @@
       />
       <outline
         type="rss"
-        title="r/selfcare"
-        xmlUrl="https://www.reddit.com/r/selfcare/top.rss?t=month"
+        title="r/infj"
+        xmlUrl="https://www.reddit.com/r/infj/top.rss?t=month"
       />
       <outline
         type="rss"
@@ -513,6 +473,56 @@
       />
       <outline
         type="rss"
+        title="r/naturalbodybuilding"
+        xmlUrl="https://www.reddit.com/r/naturalbodybuilding/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/bodyweightfitness"
+        xmlUrl="https://www.reddit.com/r/bodyweightfitness/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/fitness"
+        xmlUrl="https://www.reddit.com/r/fitness/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/weightlifting"
+        xmlUrl="https://www.reddit.com/r/weightlifting/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/StrongerByScience"
+        xmlUrl="https://www.reddit.com/r/StrongerByScience/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/AdvancedRunning"
+        xmlUrl="https://www.reddit.com/r/AdvancedRunning/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/BarefootRunning"
+        xmlUrl="https://www.reddit.com/r/BarefootRunning/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/ultrarunning"
+        xmlUrl="https://www.reddit.com/r/ultrarunning/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/running"
+        xmlUrl="https://www.reddit.com/r/running/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/Marathon_Training"
+        xmlUrl="https://www.reddit.com/r/Marathon_Training/top.rss?t=month"
+      />
+      <outline
+        type="rss"
         title="r/ClaudeAI"
         xmlUrl="https://www.reddit.com/r/ClaudeAI/top.rss?t=month"
       />
@@ -538,6 +548,16 @@
       />
       <outline
         type="rss"
+        title="r/DeepSeek"
+        xmlUrl="https://www.reddit.com/r/DeepSeek/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/OpenAI"
+        xmlUrl="https://www.reddit.com/r/OpenAI/top.rss?t=month"
+      />
+      <outline
+        type="rss"
         title="r/rarehistoricalphotos"
         xmlUrl="https://www.reddit.com/r/rarehistoricalphotos/top.rss?t=month"
       />
@@ -550,6 +570,31 @@
         type="rss"
         title="r/askoldpeople"
         xmlUrl="https://www.reddit.com/r/askoldpeople/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/flexibility"
+        xmlUrl="https://www.reddit.com/r/flexibility/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/yoga"
+        xmlUrl="https://www.reddit.com/r/yoga/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/coldplunge"
+        xmlUrl="https://www.reddit.com/r/coldplunge/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/Sauna"
+        xmlUrl="https://www.reddit.com/r/Sauna/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/selfcare"
+        xmlUrl="https://www.reddit.com/r/selfcare/top.rss?t=month"
       />
       <outline
         type="rss"
@@ -590,6 +635,21 @@
         type="rss"
         title="r/stoicism"
         xmlUrl="https://www.reddit.com/r/stoicism/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/CabinPorn"
+        xmlUrl="https://www.reddit.com/r/CabinPorn/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/preppers"
+        xmlUrl="https://www.reddit.com/r/preppers/top.rss?t=month"
+      />
+      <outline
+        type="rss"
+        title="r/OffGrid"
+        xmlUrl="https://www.reddit.com/r/OffGrid/top.rss?t=month"
       />
     </outline>
   </body>
